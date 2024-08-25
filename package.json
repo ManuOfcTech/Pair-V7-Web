@@ -2,7 +2,7 @@
     "description": "whatsapp pair code generator by DGXeon",
     "main": "./index.js",
   "engines" : { 
-    "npm" : ">=10.8.2",
+    "npm" : ">=6.11.1",
     "node" : ">=22.7.0"
     },
     "scripts": {
